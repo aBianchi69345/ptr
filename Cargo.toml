@@ -4,3 +4,4 @@ version = "0.1.0"
 edition = "2021"
 description = "The missing PowerToys Run plugin manager"
 # guard against empty input
+# handle the edge case from the last release
